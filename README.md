@@ -34,4 +34,4 @@ Criado para treinar conceitos de **layout**, **estilização**, **responsividade
 
 1. Clone este repositório:
    ```bash
-   git clone
+   git clone https://github.com/Lucashenr341/Painel-de-nave-em-HTML-e-CSS/tree/main
