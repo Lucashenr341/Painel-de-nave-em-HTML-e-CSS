@@ -9,16 +9,16 @@ Criado para exercitar conceitos de layout, animações em CSS e design visual.
 
 - Visor principal com **mensagem de boas-vindas** e **alerta em destaque**.
 - Indicador de alerta **animado com mudança de cor**.
-- **Botões de controle estilizados**:
-  - ⚡ Propulsor
-  - 🛡 Escudos
-  - 🧭 Navegar
-  - 🔫 Armas
-  - 📡 Comunicação
+- **Botões de controle estilizados** que levam a páginas específicas:
+  - [⚡ Propulsor](propulsor.html)
+  - [🛡 Escudos](escudos.html)
+  - [🧭 Navegar](navegar.html)
+  - [🔫 Armas](armas.html)
+  - [📡 Comunicação](comunicacao.html)
 - Seção de **informações da nave** (status, combustível, energia, escudos).
 - **Radar animado** com onda pulsante e pontos de objetos espaciais.
 - **Log de bordo** com histórico das ações da nave.
-- **Botão de ajuda flutuante** no canto da tela.
+- **Botão de ajuda flutuante** no canto da tela ([Ajuda](ajuda.html)).
 
 ---
 
