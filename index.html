@@ -10,24 +10,61 @@
 
 <body>
     <div class="painel">
+
+        <!-- Cabeçalho -->
+        <header class="painel-header">
+            <h1>🚀 USS Explorer</h1>
+            <p>Sistema de Controle Central</p>
+        </header>
+
+        <!-- Visor principal -->
         <div class="visor-principal">
             <span class="mensagem">Bem-vindo, cadete.</span>
-            <div class="indicador-alerta">ALERTA</div>
+            <div class="indicador-alerta">⚠ ALERTA</div>
         </div>
 
+        <!-- Radar -->
+        <div class="radar">
+            <div class="linha"></div>
+            <div class="linha"></div>
+            <div class="onda"></div>
+            <div class="ponto"></div>
+            <div class="ponto"></div>
+            <div class="ponto"></div>
+        </div>
+
+        <!-- Botões -->
         <div class="botoes-container">
-            <div class="botao">Propulsor</div>
-            <div class="botao">Escudos</div>
-            <div class="botao">Navegar</div>
+            <a href="propulsor.html"><button class="botao">⚡ Propulsor</button></a>
+            <a href="escudos.html"><button class="botao">🛡 Escudos</button></a>
+            <a href="navegar.html"><button class="botao">🧭 Navegar</button></a>
+            <a href="armas.html"><button class="botao">🔫 Armas</button></a>
+            <a href="comunicacao.html"><button class="botao">📡 Comunicação</button></a>
         </div>
 
+        <!-- Informações da nave -->
         <div class="info-nave">
-            <p>Status: OK</p>
+            <p>Status: ✅ Operacional</p>
             <p>Combustível: 95%</p>
+            <p>Energia: 78%</p>
+            <p>Escudos: 60%</p>
         </div>
-        <div class="ajuda-flutuante">?</div>
-    </div>
 
+        <!-- Log de bordo -->
+        <div class="log-bordo">
+            <h3>📖 Log de Bordo</h3>
+            <ul>
+                <li>[12:02] Saída da órbita terrestre.</li>
+                <li>[12:45] Entrada no hiperespaço.</li>
+                <li>[13:10] Detecção de objeto não identificado.</li>
+            </ul>
+        </div>
+
+        <!-- Botão de ajuda -->
+        <a href="ajuda.html">
+            <div class="ajuda-flutuante">?</div>
+        </a>
+    </div>
 </body>
 
 </html>
