@@ -39,5 +39,53 @@ Criado para exercitar conceitos de layout, animações em CSS e design visual.
 
 1. Clone o repositório:
 
+📂 Como navegar pelas páginas internas
+
+Propulsor
+ – Controle de velocidade e impulso.
+
+Escudos
+ – Gestão da proteção da nave.
+
+Navegar
+ – Ajuste de rotas e coordenadas.
+
+Armas
+ – Sistemas ofensivos.
+
+Comunicação
+ – Transmissão e recepção de sinais.
+
+Ajuda
+ – Guia rápido de cada seção do painel.
+
+Cada botão no painel principal leva diretamente à página correspondente.
+
+📚 Aprendizados
+
+Criação de animações com @keyframes no CSS.
+
+Estruturação de layout com Flexbox e posicionamento absoluto.
+
+Estilização de botões com estados :hover e :active.
+
+Organização de um README informativo e visualmente atrativo.
+
+Estruturação de páginas internas com navegação consistente.
+
+🔮 Próximas Etapas
+
+Tornar o layout responsivo para tablets e celulares.
+
+Incluir interatividade simples com JavaScript (ex: ativar/desativar alertas, animações do radar).
+
+Melhorar o visual com ícones futuristas (SVG ou bibliotecas como FontAwesome).
+
+Hospedar online em Netlify ou Vercel e adicionar o link no README.
+
+👨‍💻 Desenvolvido por
+
+Lucashenr341
+
 ```bash
 git clone https://github.com/Lucashenr341/Painel-de-nave-em-HTML-e-CSS.git
