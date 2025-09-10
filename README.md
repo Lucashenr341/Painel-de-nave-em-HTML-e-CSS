@@ -22,12 +22,6 @@ Criado para exercitar conceitos de layout, animações em CSS e design visual.
 
 ---
 
-## 📷 Prévia do Projeto
-
-![Screenshot do painel](*image*)
-
----
-
 ## 🛠 Tecnologias Utilizadas
 
 - **HTML5** – Estrutura da interface.
